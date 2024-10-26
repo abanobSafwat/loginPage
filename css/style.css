@@ -1,0 +1,23 @@
+body {
+  background-color: #212529 !important;
+}
+
+h1 {
+  color: #17a2b8 !important;
+}
+
+.signup-form {
+  box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1) !important;
+}
+
+.text-succsess {
+  color: #28a745 !important;
+}
+
+#login-form {
+  box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1) !important;
+}
+
+.welcome {
+  box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
